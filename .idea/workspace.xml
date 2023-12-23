@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4693a65-4015-4a06-8293-ea07dc2041c0" name="Changes" comment="" />
+    <list default="true" id="e4693a65-4015-4a06-8293-ea07dc2041c0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/helm/emagiacharts/templates/app-secret.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helm/emagiacharts/templates/db-CIP.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helm/emagiacharts/templates/mc-CIP.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helm/emagiacharts/templates/mcdep.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helm/emagiacharts/templates/rmq-CIP-service.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helm/emagiacharts/templates/rmq-dep.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helm/emagiacharts/templates/vproapp-service.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helm/emagiacharts/templates/vproappdep.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helm/emagiacharts/templates/vprodbdep.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,9 +54,15 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/Anil/Documents/GitHub/cicd-kube-docker/helm/emagiacharts/templates"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/helm/emagiacharts/templates" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
